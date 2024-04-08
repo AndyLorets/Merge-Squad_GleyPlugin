@@ -1405,6 +1405,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.y
       value: 380
       objectReference: {fileID: 0}
+    - target: {fileID: 688905795, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 191765603611759466, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -1481,6 +1485,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LevelBase
       objectReference: {fileID: 0}
+    - target: {fileID: 1912088910851219739, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2573263788687539817, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -1522,9 +1530,25 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5621401089879197958, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
+      propertyPath: m_Follow
+      value: 
+      objectReference: {fileID: 8828233118980391472}
+    - target: {fileID: 5621401089879197958, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
+      propertyPath: m_LookAt
+      value: 
+      objectReference: {fileID: 8828233118980391472}
+    - target: {fileID: 5621401089879197958, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
       propertyPath: m_Lens.m_SensorSize.x
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6324881703875427364, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
+      propertyPath: m_Follow
+      value: 
+      objectReference: {fileID: 8828233118980391472}
+    - target: {fileID: 6324881703875427364, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
+      propertyPath: m_LookAt
+      value: 
+      objectReference: {fileID: 8828233118980391472}
     - target: {fileID: 6324881703875427364, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
       propertyPath: m_Lens.m_SensorSize.x
       value: 1
@@ -1553,6 +1577,22 @@ PrefabInstance:
       propertyPath: m_LocalPosition.z
       value: -8.259999
       objectReference: {fileID: 0}
+    - target: {fileID: 8270126656302349907, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8660254
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270126656302349907, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270126656302349907, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8270126656302349907, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
     - target: {fileID: 8425663271378708983, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
       propertyPath: m_LocalPosition.x
       value: 1.37
@@ -1580,6 +1620,10 @@ PrefabInstance:
     - target: {fileID: 8577898083468301940, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8628902878471643410, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2afb0c0b1e9834310869cb2f0c994844, type: 3}
@@ -1914,5 +1958,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Snake Formation
       objectReference: {fileID: 0}
+    - target: {fileID: 8828233117929462122, guid: bfaeed965dc69d74dbd0b97fe9ea7476, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bfaeed965dc69d74dbd0b97fe9ea7476, type: 3}
+--- !u!4 &8828233118980391472 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8828233117929462120, guid: bfaeed965dc69d74dbd0b97fe9ea7476, type: 3}
+  m_PrefabInstance: {fileID: 8828233118980391471}
+  m_PrefabAsset: {fileID: 0}
