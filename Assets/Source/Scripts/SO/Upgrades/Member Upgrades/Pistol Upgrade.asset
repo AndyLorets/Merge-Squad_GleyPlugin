@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: 6c56a78d4a6fc94408b86d57a5f9c52b, type: 3}
   upgradeText: Pistol
+  upgradeTextRu: "\u041F\u0438\u0441\u0442\u043E\u043B\u0435\u0442"
   memberPrefab: {fileID: 873183754724297478, guid: 559c40fc91d73514997bf2450e855e89, type: 3}
   silhouetteIcon: {fileID: 21300000, guid: bc21ce2dc3abe2e4a84bbc8e03e83d75, type: 3}

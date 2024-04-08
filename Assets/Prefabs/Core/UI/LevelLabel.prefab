@@ -135,7 +135,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _label: {fileID: 8868332184789222111}
-  _preText: 'Level '
 --- !u!114 &8868332184789222111 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8730304988018668785, guid: d42d96494a7b64a9fb8fdc4f061d3c60, type: 3}

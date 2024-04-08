@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 650147a9eb743724e9fb1348388a3669, type: 3}
   m_Name: Rifle Gun Upgrade
   m_EditorClassIdentifier: 
-  upgradesType: 2
   icon: {fileID: 21300000, guid: 1bf2defb3b4ee61448d8ecaee8cab814, type: 3}
   upgradeText: Rifle Gun
+  upgradeTextRu: "\u0412\u0438\u043D\u0442\u043E\u0432\u043A\u0430"
   memberPrefab: {fileID: 6315814973022697327, guid: 1ebc327a455450d4e94dd35148847849, type: 3}
   silhouetteIcon: {fileID: 21300000, guid: ca07cd7be3ce6374b9e93edd90f84bb8, type: 3}

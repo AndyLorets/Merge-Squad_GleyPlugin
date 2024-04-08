@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: 26dccfeb35e8ed64daac1ea8bc3439cf, type: 3}
   upgradeText: Power
+  upgradeTextRu: "\u041C\u043E\u0449\u043D\u043E\u0441\u0442\u044C"
   statsUpgradesType: 2
   increasePercent: 35

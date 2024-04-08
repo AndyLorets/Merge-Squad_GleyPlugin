@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: c037e8fee1ffd1a45ba24a739e989e59, type: 3}
   upgradeText: Heal
+  upgradeTextRu: "\u041B\u0435\u0447\u0438\u0442\u044C"
   statsUpgradesType: 3
   increasePercent: 50

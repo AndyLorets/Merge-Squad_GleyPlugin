@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: 29ed84c8a652d2b4ca5d9b5c15df1c12, type: 3}
   upgradeText: Radial Shield
+  upgradeTextRu: "\u0420\u0430\u0434\u0438\u0430\u043B\u044C\u043D\u044B\u0439 \u0449\u0438\u0442"

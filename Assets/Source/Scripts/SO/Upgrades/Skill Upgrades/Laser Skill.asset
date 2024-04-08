@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: bb70feab11b0ecb4fa1594ee8dbe2e54, type: 3}
   upgradeText: Lasers
+  upgradeTextRu: "\u041B\u0430\u0437\u0435\u0440\u044B"

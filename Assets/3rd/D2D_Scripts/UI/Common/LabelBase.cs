@@ -9,7 +9,7 @@ namespace D2D.UI
     public abstract class LabelBase : MonoBehaviour
     {
         [SerializeField] private TMP_Text _label;
-        [SerializeField] private string _preText;
+        private string _preText => LanguageExample.GetCurrentLanguage("Level", "Уровень");
 
         protected virtual float UpdateRate => -1;
         

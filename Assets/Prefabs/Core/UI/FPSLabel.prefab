@@ -147,7 +147,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _label: {fileID: 584191985800254637}
-  _preText: 'FPS: '
 --- !u!114 &584191985800254637 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8730304988018668785, guid: 13317336afb054841927496e0bebbfd2, type: 3}

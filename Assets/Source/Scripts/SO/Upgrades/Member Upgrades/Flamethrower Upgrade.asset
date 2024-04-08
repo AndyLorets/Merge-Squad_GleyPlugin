@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 650147a9eb743724e9fb1348388a3669, type: 3}
   m_Name: Flamethrower Upgrade
   m_EditorClassIdentifier: 
-  upgradesType: 2
   icon: {fileID: 21300000, guid: 3819a73f68ca8f84c87d7c75c4cb3f8d, type: 3}
   upgradeText: Fire Man
+  upgradeTextRu: "\u041F\u043E\u0436\u0430\u0440\u043D\u0438\u043A"
   memberPrefab: {fileID: 3822126870382918512, guid: c328b5a2e98149d4bb5732b7358a7f97, type: 3}
   silhouetteIcon: {fileID: 21300000, guid: 914f43c0f7cc00d4c96547e1ba30f2ce, type: 3}

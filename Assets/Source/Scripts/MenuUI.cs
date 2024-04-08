@@ -1,7 +1,4 @@
 using D2D.Core;
-using D2D.Utilities;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -40,7 +37,7 @@ public class MenuUI : MonoBehaviour
     
     private void CheckForDeactivatingButtons()
     {
-
+        string maxText = LanguageExample.GetCurrentLanguage("MAX", "Ã¿ —");
         bool isEnoughForRate = _db.Money.Value >= _gameData.FireNextUpgradePrice;
         bool isEnoughForPower = _db.Money.Value >= _gameData.PowerNextUpgradePrice;
         
@@ -50,13 +47,13 @@ public class MenuUI : MonoBehaviour
         if (_db.FireRateDecreaseLevel.Value >= _gameData.maxLevelUpgrade)
         {
             fireRateIncreaseButton.Button.interactable = false;
-            fireRateIncreaseButton.PriceText.text = "MAX";
+            fireRateIncreaseButton.PriceText.text = maxText;
         }
 
         if (_db.PowerIncreaseLevel.Value >= _gameData.maxLevelUpgrade)
         {
             firePowerIncreaseButton.Button.interactable = false;
-            firePowerIncreaseButton.PriceText.text = "MAX";
+            firePowerIncreaseButton.PriceText.text = maxText;
         }
     }
     private void UpdateStats() 
@@ -64,8 +61,10 @@ public class MenuUI : MonoBehaviour
         _db.PowerIncreasePercent.Value = _gameData.upgradesPercentByLevel[(int) _db.PowerIncreaseLevel.Value] / 100;
         _db.FireRateDecreasePercent.Value = _gameData.upgradesPercentByLevel[(int)_db.FireRateDecreaseLevel.Value] / 100;
 
-        firePowerIncreaseButton.LevelText.text = $"LEVEL {_db.PowerIncreaseLevel.Value}";
-        fireRateIncreaseButton.LevelText.text = $"LEVEL {_db.FireRateDecreaseLevel.Value}";
+        string levelText = LanguageExample.GetCurrentLanguage("LEVEL", "”–Œ¬≈Õ‹"); 
+
+        firePowerIncreaseButton.LevelText.text = $"{levelText} {_db.PowerIncreaseLevel.Value}";
+        fireRateIncreaseButton.LevelText.text = $"{levelText} {_db.FireRateDecreaseLevel.Value}";
         firePowerIncreaseButton.PriceText.text = $"{_gameData.PowerNextUpgradePrice} <sprite=0>";
         fireRateIncreaseButton.PriceText.text = $"{_gameData.FireNextUpgradePrice} <sprite=0>";
 

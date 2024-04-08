@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: 6c56a78d4a6fc94408b86d57a5f9c52b, type: 3}
   upgradeText: Double All
+  upgradeTextRu: "\u0414\u0432\u043E\u0439\u043D\u043E\u0435 \u0432\u0441\u0435"

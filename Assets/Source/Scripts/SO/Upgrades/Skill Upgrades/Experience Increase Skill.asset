@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: db3fcc2361642fb49855b42b18a2077e, type: 3}
   upgradeText: XP INCREASE
+  upgradeTextRu: "\u0423\u0412\u0415\u041B\u0418\u0427\u0415\u041D\u0418\u0415 \u0417\u0414\u041E\u0420\u041E\u0412\u042C\u042F"

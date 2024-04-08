@@ -14,5 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: 6a41277c2c6b40b4eb50ae86c74b1d94, type: 3}
   upgradeText: ADD 2
+  upgradeTextRu: "\u0414\u041E\u0411\u0410\u0412\u0418\u0422\u042C 2"
   memberPrefab: {fileID: 873183754724297478, guid: 559c40fc91d73514997bf2450e855e89, type: 3}
   silhouetteIcon: {fileID: 21300000, guid: 6a41277c2c6b40b4eb50ae86c74b1d94, type: 3}

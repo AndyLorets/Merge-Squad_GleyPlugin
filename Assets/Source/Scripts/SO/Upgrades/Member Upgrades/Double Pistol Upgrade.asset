@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 650147a9eb743724e9fb1348388a3669, type: 3}
   m_Name: Double Pistol Upgrade
   m_EditorClassIdentifier: 
-  upgradesType: 2
   icon: {fileID: 21300000, guid: 823b7bbdb6dd1c3449571655e07f00d3, type: 3}
   upgradeText: Double Pistol
+  upgradeTextRu: "\u0414\u0432\u043E\u0439\u043D\u043E\u0439 \u043F\u0438\u0441\u0442\u043E\u043B\u0435\u0442"
   memberPrefab: {fileID: 873183754724297478, guid: 346f1e48dace53b4cb7f8f3d07e8b08f, type: 3}
   silhouetteIcon: {fileID: 21300000, guid: 514db957558a50b45a9c3e7ea6c17a43, type: 3}

@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   icon: {fileID: 21300000, guid: 5abfed945b25d2a44be821709dcb70e6, type: 3}
   upgradeText: Spread Shot
+  upgradeTextRu: "\u0420\u0430\u0441\u043F\u0440\u043E\u0441\u0442\u0440\u0430\u043D\u0435\u043D\u0438\u0435
+    \u0432\u044B\u0441\u0442\u0440\u0435\u043B\u0430"

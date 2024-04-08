@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 650147a9eb743724e9fb1348388a3669, type: 3}
   m_Name: Laser Upgrade
   m_EditorClassIdentifier: 
-  upgradesType: 2
   icon: {fileID: 21300000, guid: a73dc9c6be04afd4bb5cb53e0f2aca32, type: 3}
   upgradeText: Laser
+  upgradeTextRu: "\u041B\u0430\u0437\u0435\u0440"
   memberPrefab: {fileID: 873183754724297478, guid: 49c729deb000f794c973568cd4bdad17, type: 3}
   silhouetteIcon: {fileID: 21300000, guid: b6d5e0ac3e3d57a47b6a494be2fe73c2, type: 3}

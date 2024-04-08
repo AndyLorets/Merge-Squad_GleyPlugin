@@ -1,8 +1,6 @@
 using TMPro;
 using UnityEngine;
 
-using static D2D.Utilities.CommonGameplayFacade;
-
 public class PowerText : MonoBehaviour
 {
     private TextMeshProUGUI textPro;
@@ -17,6 +15,7 @@ public class PowerText : MonoBehaviour
     }
     private void UpdatePowerText(int level)
     {
-        textPro.text = $"LVL {level}";
+        string text = LanguageExample.GetCurrentLanguage("LVL", "сп."); 
+        textPro.text = $"{text} {level}";
     }
 }

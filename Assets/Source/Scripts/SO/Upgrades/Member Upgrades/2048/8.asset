@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 650147a9eb743724e9fb1348388a3669, type: 3}
   m_Name: 8
   m_EditorClassIdentifier: 
-  upgradesType: 2
   icon: {fileID: 21300000, guid: 1ef1d30456a168f4ab8daf05167e275a, type: 3}
   upgradeText: 8
+  upgradeTextRu: 8
   memberPrefab: {fileID: 2278021325583972127, guid: 05ab732d9866c2949afae185d1d90287, type: 3}
   silhouetteIcon: {fileID: 21300000, guid: bc21ce2dc3abe2e4a84bbc8e03e83d75, type: 3}
