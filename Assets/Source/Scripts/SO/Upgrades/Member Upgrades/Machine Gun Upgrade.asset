@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 650147a9eb743724e9fb1348388a3669, type: 3}
+  m_Name: Machine Gun Upgrade
+  m_EditorClassIdentifier: 
+  upgradesType: 2
+  icon: {fileID: 21300000, guid: a36f4c4c75225c4449772292b434c8b0, type: 3}
+  upgradeText: Auto Gun
+  memberPrefab: {fileID: 991471788331666158, guid: 032fa9bcb3342fc49b4a4b408c6c925a, type: 3}
+  silhouetteIcon: {fileID: 21300000, guid: e4783c051ec0dce47b7b04787e4c3b41, type: 3}

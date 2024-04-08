@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50d0f55074ce345d4ba5707005cbff1b, type: 3}
+  m_Name: CoreSettings
+  m_EditorClassIdentifier: 
+  production:
+    appName: Stickman Squad
+    companyName: D2DGames
+    className: stickman.squad.epicbattle
+    version: 2
+  nextLevelLoadDelay: 0
+  clearTweensOnSceneExit: 1
+  lazyRuntimeCreationEnabled: 1
+  raycastDebugPauseEnabled: 0
+  allocationEnabled: 1
+  objectInteractorValidation: 1
+  stateMachineOptimizedMode: 0
+  flyingUISettings:
+    claimCount: {x: 0, y: 0}
+    updateMoneyDbDelay: 0
+    startScale: 0
+    endScale: 0
+    animationsDuration: 0
+    animationEase: 0
+    rainAmplitude: {x: 0, y: 0}
+  defaultBunchData: {fileID: 11400000, guid: 5e0c4e311eccb40988d824ae37eae95c, type: 2}
+  safeZoneOffset: -90
+  winReward:
+    _chunks:
+    - rewardIncrease: 35
+      fromLevelNumber: 0
+    _startOffset: 50
+  tools:
+    palettePosition: {x: 1200, y: 25}
+    paletteSize: {x: 250, y: 350}
+    showLeftTopBar: 1
+    showMiddleTopBar: 1
+    showRightTopBar: 1
+    isKeeperOn: 1
+    separatorName: --------------------
+    hideInternalButtons: 0
+    focusAlsoOnGameObjects: 0
+    paletteUIWidthFactor: 0.4
+    rightButtonId: -1
+    paletteSpacing1: 11
+    paletteSpace: 8
+    importerMode: 0
+    defaultImportAvatar: {fileID: 0}
+    icons:
+      dice: {fileID: 2800000, guid: 5c1b4f08f145647a6b758577b4fd87c6, type: 3}
+      advanced: {fileID: 2800000, guid: 99e4ac788e57544edae5e776c8e9b00d, type: 3}
+      endPoint: {fileID: 2800000, guid: da060c990f0854b248ae220251c0d13b, type: 3}
+      relative: {fileID: 0}
+      kill: {fileID: 0}
+      pong: {fileID: 0}
+      call: {fileID: 0}
+      playMode: {fileID: 0}
+      effects: {fileID: 2800000, guid: dfb1b79d960e04122928e5155d208e3c, type: 3}
+      data: {fileID: 2800000, guid: 9be28d1ecd4824829b3f0d96ae75a447, type: 3}

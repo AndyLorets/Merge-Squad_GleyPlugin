@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6396116563213356331
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6396116563213356328}
+  - component: {fileID: 401775756344623513}
+  m_Layer: 0
+  m_Name: Obstacle Spawner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6396116563213356328
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6396116563213356331}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &401775756344623513
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6396116563213356331}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c22459b5623aa914ba6506ec451f2d14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxObstacleOnScreen: 3
+  maxObstacleOnLabyrinth: 50
+  labyrinthLevel: 3
+  spawnCooldown: 0.5
+  obstaclePrefabs:
+  - {fileID: -4525595983658686432, guid: 169c94bc8ad098b4ba17ea0d9193ae1c, type: 3}
+  - {fileID: 8057932058259594687, guid: 5817a282b694e794db6c69c8c74bf53f, type: 3}
+  - {fileID: -434394177729046365, guid: 1d886b09f638dbe4b952acee9812aff1, type: 3}
+  - {fileID: -675708997553533836, guid: 8c45c88ec4067114394d21037b390c2d, type: 3}
+  - {fileID: 0}
+  minSize: {x: 1, y: 1, z: 1}
+  maxSize: {x: 1.1, y: 1.1, z: 1.1}
+  maxXRotation: 5

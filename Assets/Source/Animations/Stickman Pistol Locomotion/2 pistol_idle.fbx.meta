@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 3040efc9ae4ec20418649886161f0e12
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -8060413310145710559
+    second: Armature.011|Armature.001|Armature|Armature|mixamo.com|Layer0.001
+  - first:
+      74: -4898047513232648768
+    second: Armature.011|Armature.001|Armature|Armature|mixamo.com|Layer0.002
+  - first:
+      74: 2196656617364996824
+    second: Armature.011|Armature.001|Armature|Armature|mixamo.com|Layer0.003
+  - first:
+      74: 197659473011323972
+    second: Armature.011|Armature.001|Armature|Armature|mixamo.com|Layer0.004
+  - first:
+      74: -6347424070098591913
+    second: Armature.011|Armature.001|Armature|PoseLib
+  - first:
+      74: 5952253667213882007
+    second: Armature.011|Armature.002|Armature|Armature|mixamo.com|Layer0.001
+  - first:
+      74: -9192230315535936769
+    second: Armature.011|Armature.002|Armature|Armature|mixamo.com|Layer0.002
+  - first:
+      74: -1563480852220462034
+    second: Armature.011|Armature.002|Armature|Armature|mixamo.com|Layer0.003
+  - first:
+      74: -4968749130758509712
+    second: Armature.011|Armature.002|Armature|Armature|mixamo.com|Layer0.004
+  - first:
+      74: -5722216020533031529
+    second: Armature.011|Armature.002|Armature|PoseLib
+  - first:
+      74: -1160260956937224661
+    second: Armature.011|Armature.003|Armature|Armature|mixamo.com|Layer0.001
+  - first:
+      74: -7154073526733360374
+    second: Armature.011|Armature.003|Armature|Armature|mixamo.com|Layer0.002
+  - first:
+      74: -530612618666675790
+    second: Armature.011|Armature.003|Armature|Armature|mixamo.com|Layer0.003
+  - first:
+      74: 2780286877079871914
+    second: Armature.011|Armature.003|Armature|Armature|mixamo.com|Layer0.004
+  - first:
+      74: -192426808766669592
+    second: Armature.011|Armature.003|Armature|PoseLib
+  - first:
+      74: -5833414018585870366
+    second: Armature.011|Armature.004|Armature|Armature|mixamo.com|Layer0.001
+  - first:
+      74: 6709236009608607603
+    second: Armature.011|Armature.004|Armature|Armature|mixamo.com|Layer0.002
+  - first:
+      74: -6003018343159263583
+    second: Armature.011|Armature.004|Armature|Armature|mixamo.com|Layer0.003
+  - first:
+      74: -7703329966795241240
+    second: Armature.011|Armature.004|Armature|Armature|mixamo.com|Layer0.004
+  - first:
+      74: -5601883219162421000
+    second: Armature.011|Armature.004|Armature|Armature|mixamo.com|Layer0.005
+  - first:
+      74: 6716741422634046760
+    second: Armature.011|Armature.004|Armature|PoseLib
+  - first:
+      74: 9162779251208570879
+    second: Armature.011|Armature.011|Armature.007|Armature.001|Armature|Armature|mi
+  - first:
+      74: 1932500688593974534
+    second: Armature.011|Armature.011|Armature.007|Armature.001|Armature|Armature|mi.001
+  - first:
+      74: -6054019013999639721
+    second: Armature.011|Armature.011|Armature.007|Armature.001|Armature|Armature|mi.002
+  - first:
+      74: 7513056114481422510
+    second: Armature.011|Armature.011|Armature.007|Armature.001|Armature|Armature|mixamo
+  - first:
+      74: 6610619693970583949
+    second: Armature.011|Armature.011|Armature.007|Armature.001|Armature|PoseLib
+  - first:
+      74: 1567331179956998166
+    second: Armature.011|Armature.011|Armature.007|Armature.002|Armature|Armature|mi
+  - first:
+      74: 4242224521959496230
+    second: Armature.011|Armature.011|Armature.007|Armature.002|Armature|Armature|mi.001
+  - first:
+      74: -8202648330905193068
+    second: Armature.011|Armature.011|Armature.007|Armature.002|Armature|Armature|mi.002
+  - first:
+      74: -5875816594619560835
+    second: Armature.011|Armature.011|Armature.007|Armature.002|Armature|Armature|mixamo
+  - first:
+      74: -5188830461889639309
+    second: Armature.011|Armature.011|Armature.007|Armature.002|Armature|PoseLib
+  - first:
+      74: -2826602154182575096
+    second: Armature.011|Armature.011|Armature.007|Armature.003|Armature|Armature|mi
+  - first:
+      74: 2648649563323656508
+    second: Armature.011|Armature.011|Armature.007|Armature.003|Armature|Armature|mi.001
+  - first:
+      74: 6321302100286008929
+    second: Armature.011|Armature.011|Armature.007|Armature.003|Armature|Armature|mi.002
+  - first:
+      74: -7692523760807158975
+    second: Armature.011|Armature.011|Armature.007|Armature.003|Armature|Armature|mixamo
+  - first:
+      74: -8969712321439999868
+    second: Armature.011|Armature.011|Armature.007|Armature.003|Armature|PoseLib
+  - first:
+      74: 2981233259675992877
+    second: Armature.011|Armature.011|Armature.007|Armature.004|Armature|Armature|mi
+  - first:
+      74: -7646830166487928872
+    second: Armature.011|Armature.011|Armature.007|Armature.004|Armature|Armature|mi.001
+  - first:
+      74: -3867776266863085872
+    second: Armature.011|Armature.011|Armature.007|Armature.004|Armature|Armature|mi.002
+  - first:
+      74: -6582435681937092034
+    second: Armature.011|Armature.011|Armature.007|Armature.004|Armature|Armature|mi.003
+  - first:
+      74: -6065846175651813073
+    second: Armature.011|Armature.011|Armature.007|Armature.004|Armature|Armature|mixamo
+  - first:
+      74: 2450770496762834208
+    second: Armature.011|Armature.011|Armature.007|Armature.004|Armature|PoseLib
+  - first:
+      74: 4050243678402472959
+    second: Armature.011|Armature.011|Armature.007|Armature|Armature|Armature|mixamo
+  - first:
+      74: 2587441978618547075
+    second: Armature.011|Armature.011|Armature.007|Armature|Armature|Armature|mixamo.001
+  - first:
+      74: -6957397198593806540
+    second: Armature.011|Armature.011|Armature.007|Armature|Armature|Armature|mixamo.002
+  - first:
+      74: -5053085164632494209
+    second: Armature.011|Armature.011|Armature.007|Armature|Armature|Armature|mixamo.003
+  - first:
+      74: 2870766888356011184
+    second: Armature.011|Armature.011|Armature.007|Armature|Armature|Armature|mixamo.004
+  - first:
+      74: -3994776886103944062
+    second: Armature.011|Armature.011|Armature.007|Armature|Armature|Armature|mixamo.005
+  - first:
+      74: 7812658823596102255
+    second: Armature.011|Armature.011|Armature.007|Armature|Armature|Armature|mixamo.com
+  - first:
+      74: 3315915690498907710
+    second: Armature.011|Armature.011|Armature.007|Armature|Armature|PoseLib
+  - first:
+      74: 3421191878092121308
+    second: Armature.011|Armature.011|Armature.007|Armature|mixamo.com|Layer0.002
+  - first:
+      74: 475981789238738749
+    second: Armature.011|Armature.011|Armature.007|shooting
+  - first:
+      74: 8563467245261603560
+    second: Armature.011|Armature.011|Armature.007|two_pistol_shoot
+  - first:
+      74: 7523896616991729039
+    second: Armature.011|Armature.011|Armature.007|two_pistol_shoot.001
+  - first:
+      74: 6419536147339519654
+    second: Armature.011|Armature|Armature|Armature|mixamo.com|Layer0.001
+  - first:
+      74: -1942643357903546249
+    second: Armature.011|Armature|Armature|Armature|mixamo.com|Layer0.002
+  - first:
+      74: -9167364737004730411
+    second: Armature.011|Armature|Armature|Armature|mixamo.com|Layer0.003
+  - first:
+      74: 3204719807606403643
+    second: Armature.011|Armature|Armature|Armature|mixamo.com|Layer0.004
+  - first:
+      74: 5467897478419162731
+    second: Armature.011|Armature|Armature|Armature|mixamo.com|Layer0.005
+  - first:
+      74: -4709482007859091359
+    second: Armature.011|Armature|Armature|Armature|mixamo.com|Layer0.006
+  - first:
+      74: 7862429106536027307
+    second: Armature.011|Armature|Armature|Armature|mixamo.com|Layer0.007
+  - first:
+      74: -2905828879483430462
+    second: Armature.011|Armature|Armature|Armature|mixamo.com|Layer0.008
+  - first:
+      74: 3328285173001798870
+    second: Armature.011|Armature|Armature|Armature|mixamo.com|Layer0.009
+  - first:
+      74: 6618431685108252042
+    second: Armature.011|Armature|Armature|PoseLib
+  - first:
+      74: 7946911864419484253
+    second: Armature.011|Armature|mixamo.com|Layer0.002
+  - first:
+      74: -8198262577023063425
+    second: Armature.011|idle_2 pistol
+  - first:
+      74: -8600663111730888463
+    second: Armature.011|idle_2_pistol
+  - first:
+      74: 1865644771738001461
+    second: Armature.011|idle_2_pistol.001
+  - first:
+      74: -653056278204072760
+    second: Armature.011|shooting
+  - first:
+      74: 5924830506847271744
+    second: Armature.011|two_pistol_shoot
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftHand' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Armature.011|idle_2 pistol
+      takeName: Armature.011|idle_2 pistol
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Armature.011|idle_2_pistol
+      takeName: Armature.011|idle_2_pistol
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: mixamorig:Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:LeftForeArm_end
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: mixamorig:RightForeArm_end
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: 2 pistol_idle(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature.011
+      parentName: 2 pistol_idle(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.00000008146034, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Hips
+      parentName: Armature.011
+      position: {x: -0.0005842447, y: 0.6863502, z: -0.046474464}
+      rotation: {x: 0.00000008548707, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine
+      parentName: mixamorig:Hips
+      position: {x: -0, y: 0.09862803, z: 0.0024813216}
+      rotation: {x: 0.012576192, y: -0, z: -0, w: 0.99992096}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine1
+      parentName: mixamorig:Spine
+      position: {x: -5.820766e-11, y: 0.11510225, z: -0.0000000018626451}
+      rotation: {x: -0.000000077299774, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Spine2
+      parentName: mixamorig:Spine1
+      position: {x: -0, y: 0.13154593, z: 0.0000000055879354}
+      rotation: {x: 0.00000007171184, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Neck
+      parentName: mixamorig:Spine2
+      position: {x: -5.820766e-11, y: 0.1479886, z: 0.000000007450581}
+      rotation: {x: -0.012576241, y: -0, z: -0, w: 0.99992096}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: mixamorig:Head
+      parentName: mixamorig:Neck
+      position: {x: -0, y: 0.12346863, z: 0.00016353866}
+      rotation: {x: 0.000000028870996, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:Head_end
+      parentName: mixamorig:Head
+      position: {x: -0, y: 0.4062692, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftShoulder
+      parentName: mixamorig:Spine2
+      position: {x: -0.060603213, y: 0.12302118, z: 0.000637671}
+      rotation: {x: 0.57779944, y: -0.4097545, z: 0.5728265, w: 0.41245466}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: mixamorig:LeftArm
+      parentName: mixamorig:LeftShoulder
+      position: {x: 0.0000000013969839, y: 0.13225845, z: 0.00000016589183}
+      rotation: {x: -0.17835137, y: 0.0044544037, z: -0.024568766, w: 0.98364997}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000001}
+    - name: mixamorig:LeftForeArm
+      parentName: mixamorig:LeftArm
+      position: {x: -9.313226e-10, y: 0.25361225, z: -0.000000068655936}
+      rotation: {x: -0.0147998165, y: 0.000076418735, z: 0.0018370032, w: 0.99988884}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: mixamorig:LeftForeArm_end
+      parentName: mixamorig:LeftForeArm
+      position: {x: -0, y: 0.25498635, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightShoulder
+      parentName: mixamorig:Spine2
+      position: {x: 0.060603216, y: 0.12302082, z: 0.0006186329}
+      rotation: {x: 0.57813305, y: 0.40918458, z: -0.57246864, w: 0.4130493}
+      scale: {x: 1, y: 1.0000006, z: 1.0000005}
+    - name: mixamorig:RightArm
+      parentName: mixamorig:RightShoulder
+      position: {x: -0.0000000027939677, y: 0.13225847, z: 0.000000057043508}
+      rotation: {x: -0.17834452, y: -0.0041064178, z: 0.022650959, w: 0.9836988}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.9999996}
+    - name: mixamorig:RightForeArm
+      parentName: mixamorig:RightArm
+      position: {x: 0.0000000027939677, y: 0.25355744, z: -0.000000058309524}
+      rotation: {x: -0.017939344, y: -0.00009494275, z: 0.005291699, w: 0.9998251}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: mixamorig:RightForeArm_end
+      parentName: mixamorig:RightForeArm
+      position: {x: -0, y: 0.25504944, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:LeftUpLeg
+      parentName: mixamorig:Hips
+      position: {x: -0.08895523, y: -0.054846954, z: 0.005279156}
+      rotation: {x: -0.00061500416, y: 0.022455955, z: 0.99935883, w: 0.02788129}
+      scale: {x: 1.0000037, y: 0.9999997, z: 1.0000025}
+    - name: mixamorig:LeftLeg
+      parentName: mixamorig:LeftUpLeg
+      position: {x: -0.0000000045474735, y: 0.2549018, z: -4.5884008e-10}
+      rotation: {x: -0.010295807, y: -0.00015801296, z: 0.015095737, w: 0.9998331}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999994}
+    - name: mixamorig:LeftFoot
+      parentName: mixamorig:LeftLeg
+      position: {x: 0.0000000052441465, y: 0.2091963, z: -7.166818e-10}
+      rotation: {x: 0.3985834, y: 0.03606979, z: -0.015699489, w: 0.91628814}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1}
+    - name: mixamorig:LeftToeBase
+      parentName: mixamorig:LeftFoot
+      position: {x: -0.000000014784746, y: 0.2262453, z: -0.000000016763806}
+      rotation: {x: 0.35836813, y: 0.05578249, z: -0.021463381, w: 0.9316651}
+      scale: {x: 1.0000005, y: 0.99999887, z: 1.0000013}
+    - name: mixamorig:LeftToeBase_end
+      parentName: mixamorig:LeftToeBase
+      position: {x: -0, y: 0.0865168, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: mixamorig:RightUpLeg
+      parentName: mixamorig:Hips
+      position: {x: 0.08895522, y: -0.054846954, z: 0.007967322}
+      rotation: {x: 0.00025207223, y: 0.00922083, z: 0.9995679, w: -0.0279104}
+      scale: {x: 1.0000026, y: 1.0000001, z: 1.0000004}
+    - name: mixamorig:RightLeg
+      parentName: mixamorig:RightUpLeg
+      position: {x: -0.0000000018662831, y: 0.2546885, z: -0.0000000011553993}
+      rotation: {x: 0.013188616, y: -0.0002008139, z: -0.015125333, w: 0.99979866}
+      scale: {x: 1, y: 0.9999999, z: 0.99999976}
+    - name: mixamorig:RightFoot
+      parentName: mixamorig:RightLeg
+      position: {x: -0.000000005691618, y: 0.20934449, z: 0.0000000024301698}
+      rotation: {x: 0.3922587, y: -0.0366876, z: 0.015662123, w: 0.91898966}
+      scale: {x: 1.0000001, y: 1, z: 0.9999998}
+    - name: mixamorig:RightToeBase
+      parentName: mixamorig:RightFoot
+      position: {x: -0.000000004598405, y: 0.22794463, z: -0.0000000088475645}
+      rotation: {x: 0.35527313, y: -0.054543093, z: 0.020772384, w: 0.93293875}
+      scale: {x: 1.0000006, y: 0.9999999, z: 1}
+    - name: mixamorig:RightToeBase_end
+      parentName: mixamorig:RightToeBase
+      position: {x: -0, y: 0.08763805, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Stickman.010
+      parentName: 2 pistol_idle(Clone)
+      position: {x: -0.000000012048986, y: 3.4924627e-10, z: -0.0000000026047928}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

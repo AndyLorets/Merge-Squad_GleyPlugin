@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f0b0965d8836e14eb25afa94bec220e, type: 3}
+  m_Name: Machine Gun
+  m_EditorClassIdentifier: 
+  unlockableType: 1
+  unlockStep: 0.334
+  icon: {fileID: 21300000, guid: f0d910c375777134da9af9c33dc9dfff, type: 3}
+  backIcon: {fileID: 21300000, guid: 7b2416dbe5b4fc5488ff393bf4bc4082, type: 3}
+  showName: Machine Gun
+  memberUpgradesSO: {fileID: 11400000, guid: 3624cbcc92d31f5448ff32ef8e1a17a6, type: 2}
+  nextUnlockable: {fileID: 11400000, guid: d12b819731c3a654abb82e58cb36df07, type: 2}

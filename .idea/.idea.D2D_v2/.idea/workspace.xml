@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c2a0fd3-70d6-40ac-af43-55dfe4ec71a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Jelly2048/Assets/Scripts/Sounds/WinSound.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Tools/Editor/Shortcuts.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93BEF244-A0F4-4B9F-89E5-3972954BFC82/a6/5d00cc85/MeshFilter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Braslet/Assets/3rd/D2D_Scripts/Utilities/DMath.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../SwingGirls/Assets/3rd/D2D_Scripts/Core/Data/ToolsData.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB4012E1-D1CD-4624-9895-380C98A9117E/d4/10198310/AutoPropertyMode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Core/GameStateMachine/GameStateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Postman/Assets/3rd/D2D_Scripts/Animations/Editor/FadeAnimationEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file:///Applications/Unity/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/Image.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../SwingGirls/Assets/3rd/D2D_Scripts/Animations/Editor/FadeAnimationEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93BEF244-A0F4-4B9F-89E5-3972954BFC82/04/bf51c87a/Renderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../IntoTheCrowd/Assets/3rd/D2D_Scripts/Animations/Editor/FadeAnimationEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../RailwayMaster/Assets/3rd/D2D_Scripts/Animations/Editor/FadeAnimationEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Animations/DAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Postman/Assets/Scripts/Units/Player/PlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Relaxy/Assets/Scripts/Editor/MazeEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Core/Data/CoreSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.marijnzwemmer.unity-toolbar-extender@df8031d462/Editor/ToolbarCallback.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Core/Data/ProductionData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Telegram Desktop/WeaponDRayAttack.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Postman/Assets/Scripts/Units/Player/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Camera/CameraDistanceAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB9ECD7B-28B0-48E4-ADAC-3A1464F44AC6/a5/20b7a007/Selection.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Utilities/ExtremeCodeSugar/ComponentExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Databases/GameProgressionDatabase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AI/FSM_Template/StateMachine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/86/626c4fc5/AttributeTargets.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Utilities/ExtremeCodeSugar/CommonGameplayFacade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93BEF244-A0F4-4B9F-89E5-3972954BFC82/d2/7575ccd2/SkinnedMeshRenderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/UI/SwitchOff.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Relaxy/Assets/3rd/D2D_Scripts/Utilities/CodeSugar/MathSugar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB9ECD7B-28B0-48E4-ADAC-3A1464F44AC6/49/61f6417c/AssetDatabase.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB9ECD7B-28B0-48E4-ADAC-3A1464F44AC6/45/834dc7bf/ReorderableList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623DD1C5-ED6E-43BC-8659-6AF9203BEC21/97/dfddc726/TweenExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Braslet/Assets/3rd/D2D_Scripts/Utilities/CodeSugar/MathSugar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Core/PausablesHub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Relaxy/Assets/Scripts/PlayerMovement.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.marijnzwemmer.unity-toolbar-extender@df8031d462/Editor/ToolbarExtender.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Core/PausablesMember.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../CityGiantFight/Assets/3rd/D2D_Scripts/Animations/Editor/FadeAnimationEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Postman copy/Assets/3rd/D2D_Scripts/Animations/Editor/FadeAnimationEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../SwingGirls/Assets/3rd/D2D_Scripts/Animations/DAnimation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../PoseToSlice/Assets/3rd/D2D_Scripts/Utilities/CodeSugar/GameplaySugar.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93BEF244-A0F4-4B9F-89E5-3972954BFC82/fe/bd2b40f2/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93BEF244-A0F4-4B9F-89E5-3972954BFC82/90/b34c7378/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../SwingGirls/Assets/3rd/D2D_Scripts/Core/Data/CoreSettings.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/3e/48587d4e/AttributeUsageAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03EB8B5A-0B99-4E17-A54E-298134BE700A/f3/55aa4a53/Collision.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Testing/CheatConsole.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Samples/GeneratorSample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93BEF244-A0F4-4B9F-89E5-3972954BFC82/a2/2ddfdbcf/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Tools/Editor/EditorCollapseAll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Tools/Editor/EditorFbxImportSetting.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2c24f0c1857d4078b6d453f88e061a29dba00/84/6f7535d2/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/623dd1c5ed6e43bc86596af9203bec2127000/93/7bf652fe/DOTween.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file:///Applications/Unity/2020.3.12f1/Unity.app/Contents/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime/UI/Core/DefaultControls.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Gameplay/Health/Health.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Audio/SoundPreset.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../WeaponsRoyal/Assets/3rd/D2D_Scripts/Publishing/PlayTimeCounter.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Tools/Editor/PalleteWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/cb/942cb29a/SerializableAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Relaxy/Assets/3rd/D2D_Scripts/Animations/DAnimation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.cysharp.unitask@50a67d8f41/Runtime/UniTask.Delay.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB9ECD7B-28B0-48E4-ADAC-3A1464F44AC6/ab/f4feaef6/GenerateIconsWithMipLevels.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/93BEF244-A0F4-4B9F-89E5-3972954BFC82/34/b7e09374/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/03EB8B5A-0B99-4E17-A54E-298134BE700A/80/8a1cb871/Collider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB9ECD7B-28B0-48E4-ADAC-3A1464F44AC6/35/8f0fd515/EditorApplication.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/42/a3abc6b8/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Core/GameStateMachine/GameStateMachineUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2C24F0C1-857D-4078-B6D4-53F88E061A29/5c/f844f6d0/Attribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/bb9ecd7b28b048e4adac3a1464f44ac675c800/79/6a674666/Editor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Utilities/ExtremeCodeSugar/SmartScript.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Core/Data/ProductionData.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Databases/GameProgressionDatabase.cs" />
+      <option value="$PROJECT_DIR$/Assets/HelpMePlace/Scripts/Dependants/HMPHelperFunctions.cs" />
+      <option value="$PROJECT_DIR$/Assets/HelpMePlace/Scripts/Configuration/HMPKeyBinds.cs" />
+      <option value="$PROJECT_DIR$/Assets/HelpMePlace/Editor/HelpMePlaceEditor.cs" />
+      <option value="$PROJECT_DIR$/../Relaxy/Assets/Scripts/PlayerMovement.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Utilities/DInput.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Utilities/Editor/SuperEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Animations/Editor/DAnimationEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Animations/Editor/RotateAnimationEditor.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Animations/RotateAnimation.cs" />
+      <option value="$PROJECT_DIR$/Assets/HelpMePlace/Scripts/Dependants/HMPBlueprintHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/HelpMePlace/Scripts/Dependants/HMPConstants.cs" />
+      <option value="$PROJECT_DIR$/Assets/HelpMePlace/Scripts/Configuration/HMPConfiguration.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Tools/Editor/HierarchyKeeper.cs" />
+      <option value="$PROJECT_DIR$/Assets/HelpMePlace/Scripts/HelpMePlaceSystem.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Tools/Editor/Shortcuts.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Tools/Editor/UnityTopbar.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Tools/AssetsPalette.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Animations/DAnimation.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Core/Data/ToolsData.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Tools/Editor/EditorFbxImportSetting.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Tools/HierarchyFolder.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Gameplay/DRay.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Gameplay/Level/Level.cs" />
+      <option value="$PROJECT_DIR$/Assets/ParadoxNotion/CanvasCore/Framework/Runtime/Tasks/ActionList.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CoorLoop.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CoorGameLoop.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CoreGameLoop.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/CoreLoop.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI_Ghosts/FSM_Template/StateMachine.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Unit.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Enemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/3rd/D2D_Scripts/Utilities/ExtremeCodeSugar/SmartScript.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI_Ghosts/GeneralAISettings.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI_Ghosts/FSM_Template/AIState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI_Ghosts/GhostAI/GhostAI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI_Ghosts/GhostAI/States/GhostRunAway.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI_Ghosts/HuntersAI/HuntersAI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI_Ghosts/HuntersAI/HuntersAISettings.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI_Ghosts/GhostAI/GhostAISettings.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI_Ghosts/MoveTowardsTargetState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI_Ghosts/VisionZone.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI_Ghosts/WanderState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI_Ghosts/AIBase.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/UnitHasher.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI/LambdaState.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI/AIBase.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI/SampleAI.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/AI/FSM_Template/StateMachine.cs" />
+    </changedPaths>
+  </component>
+  <component name="ProjectId" id="1uRBu63oziivHKpyMjhZKuR5RNy" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34989354" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="RiderCSharpLiveTemplatesSettingsId" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c2a0fd3-70d6-40ac-af43-55dfe4ec71a4" name="Default Changelist" comment="" />
+      <created>1624618740376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624618740376</updated>
+      <workItem from="1624618747094" duration="562000" />
+      <workItem from="1624635925288" duration="1042000" />
+      <workItem from="1624702401240" duration="183000" />
+      <workItem from="1624702856680" duration="747000" />
+      <workItem from="1624786886600" duration="555000" />
+      <workItem from="1624816669501" duration="1299000" />
+      <workItem from="1624975761414" duration="664000" />
+      <workItem from="1625169658407" duration="3776000" />
+      <workItem from="1625217522082" duration="45330000" />
+      <workItem from="1625553009731" duration="2334000" />
+      <workItem from="1625591755674" duration="2592000" />
+      <workItem from="1625655011551" duration="5251000" />
+      <workItem from="1626699000069" duration="10094000" />
+      <workItem from="1627010926666" duration="460000" />
+      <workItem from="1627011928530" duration="6191000" />
+      <workItem from="1627038906737" duration="1520000" />
+      <workItem from="1627596059858" duration="3434000" />
+      <workItem from="1627600583717" duration="9183000" />
+      <workItem from="1627652503210" duration="7034000" />
+      <workItem from="1627730764843" duration="14715000" />
+      <workItem from="1627837747707" duration="2587000" />
+      <workItem from="1627912310667" duration="1928000" />
+      <workItem from="1628436793994" duration="2249000" />
+      <workItem from="1628459130687" duration="1261000" />
+      <workItem from="1628632673623" duration="6186000" />
+      <workItem from="1629132863430" duration="528000" />
+      <workItem from="1630610262424" duration="3069000" />
+      <workItem from="1631099880244" duration="5303000" />
+      <workItem from="1631120453627" duration="6881000" />
+      <workItem from="1631554740042" duration="173000" />
+      <workItem from="1631653886182" duration="12939000" />
+      <workItem from="1631784494818" duration="447000" />
+      <workItem from="1631868642255" duration="1894000" />
+      <workItem from="1632036897318" duration="2585000" />
+      <workItem from="1632158429524" duration="817000" />
+      <workItem from="1632921524147" duration="908000" />
+      <workItem from="1633452879379" duration="9653000" />
+      <workItem from="1633766423626" duration="2265000" />
+      <workItem from="1634379561479" duration="7116000" />
+      <workItem from="1634638655388" duration="5718000" />
+      <workItem from="1635414252343" duration="246000" />
+      <workItem from="1635424306075" duration="4240000" />
+      <workItem from="1636673529654" duration="3460000" />
+      <workItem from="1637057929622" duration="1596000" />
+      <workItem from="1637224692990" duration="1290000" />
+      <workItem from="1637243776596" duration="2417000" />
+      <workItem from="1637317048026" duration="4269000" />
+      <workItem from="1637484920041" duration="12159000" />
+      <workItem from="1637951020812" duration="2509000" />
+      <workItem from="1639403801522" duration="2634000" />
+      <workItem from="1639469491597" duration="15670000" />
+      <workItem from="1640518131281" duration="2651000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

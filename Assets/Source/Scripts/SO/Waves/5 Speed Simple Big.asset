@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 50965fd94b18ae14fade4ecbf7c109be, type: 3}
+  m_Name: 5 Speed Simple Big
+  m_EditorClassIdentifier: 
+  enemies:
+  - {fileID: 4237591272215210808, guid: a83601dfcee9a0a4bb6bb284cf6cb348, type: 3}
+  - {fileID: 6076420303904637098, guid: a9fc88e0985ac7845a97445d5b02d87e, type: 3}
+  - {fileID: 4943830718716313880, guid: e379a257da888fb47ac8b29054169ccd, type: 3}
+  duration: 5
+  minLevel: 4

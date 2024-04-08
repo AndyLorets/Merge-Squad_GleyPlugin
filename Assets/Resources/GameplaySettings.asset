@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40a8313b47064e26bcdb60e81b588bc9, type: 3}
+  m_Name: GameplaySettings
+  m_EditorClassIdentifier: 
+  levels: []
+  groundMaterials:
+  - {fileID: 2100000, guid: ebf7e8ea2b948a34ca46b0d32ce8d667, type: 2}
+  pistolProjectile: {fileID: 11400000, guid: eee42d13775b33643be3ec5187ac0ef9, type: 2}
+  laserProjectile: {fileID: 11400000, guid: eae28334244aed447b0c6524a6bf0eee, type: 2}
+  xpModifierIncrease: 1.33
+  grayDeathColor: {r: 0.4528302, g: 0.4528302, b: 0.4528302, a: 1}
+  grayDeathDuration: 0.3
+  grayCorpseLifetime: 2
+  muzzleFlash: {fileID: 1559235166260600, guid: 49b34aad5b5e23341a5eef46fc10eca8, type: 3}
+  bulletMuzzleFlash: {fileID: 11400000, guid: dc8e4e4cce7112f418de643a1eebd558, type: 2}
+  enemyDespawnDistance: 30
+  neutralDespawnDistance: 30
+  ObstacleDespawnDistance: 30
+  enemyMaxSpeedLevel: 6
+  GroundLayer:
+    serializedVersion: 2
+    m_Bits: 64
+  EnemyLayer:
+    serializedVersion: 2
+    m_Bits: 8192
+  XPLayer: XP
+  timeBeforeXPActivate: 0.7
+  pickUpFlyForce: 230
+  boostInitialPricee: 150
+  boostPriceStep: 60
+  speedIncreasePercent: 1.2
+  radialWeaponDuration: 4
+  radialWeaponCooldown: 4
+  radialWeaponDamage: 5
+  radialWeaponDamageCooldown: 0.2
+  evolveDelay: 0.15
+  upgradesPercentByLevel:
+  - 0
+  - 25
+  - 40
+  - 55
+  - 70
+  - 80
+  - 90
+  - 100
+  - 110
+  - 115
+  - 120
+  maxLevelUpgrade: 10
+  levelUpVFX: {fileID: 189236, guid: 8b80f8497c25823439546e7fbb1d81a9, type: 3}
+  punchScale: 0.3
+  punchDuration: 0.3
+  punchDelay: 0.1
+  pistolShotClip: {fileID: 8300000, guid: c922c34f559ead440a273a13a924cfc7, type: 3}
+  machineGunShotClip: {fileID: 8300000, guid: 38d95e38f52f6a54b888d9fd555fa1e3, type: 3}
+  rifleShotClip: {fileID: 8300000, guid: c922c34f559ead440a273a13a924cfc7, type: 3}
+  shotgunShotClip: {fileID: 8300000, guid: d6dbb92a655eeb549a408aa59fed63f4, type: 3}
+  explosionClip: {fileID: 8300000, guid: 878d46363e7e0164a8b8c68333f993dc, type: 3}
+  pickUpClip: {fileID: 8300000, guid: 74ea4a2ad98acb241bdb9753be6cd8c4, type: 3}
+  spawnClip: {fileID: 8300000, guid: 5052682f23f19384da5d743dc76ed64b, type: 3}
+  laserClip: {fileID: 8300000, guid: 4686de3506c101f43a9393cea35fbe13, type: 3}
+  minSoundDelay: 0.2
+  baseSpeedMultiplier: 1.04
+  baseXPMultiplier: 1.08
+  laserMuzzleVFX: {fileID: 11400000, guid: da70603e834bbe446a994397297df920, type: 2}
+  explosionVFX: {fileID: 11400000, guid: c4f1e5d0e3e78ae488ba529ae0ae1952, type: 2}
+  allWaves:
+  - {fileID: 11400000, guid: c63cb65c9da870a4a908161c50287db8, type: 2}
+  - {fileID: 11400000, guid: 822532fd1d1818849a3d7c57b869ad4c, type: 2}
+  - {fileID: 11400000, guid: bd49e2566c701f940a64142d971fde96, type: 2}
+  - {fileID: 11400000, guid: 21933b25268cfae4dad8b9758d8e2e78, type: 2}
+  - {fileID: 11400000, guid: a79e6abfcbf3e2142ad09834da6f4f32, type: 2}
+  - {fileID: 11400000, guid: 277687fda0c94e74a856c37b4089ff4a, type: 2}
+  - {fileID: 11400000, guid: d96c6be2893e3cd41a456dd51b10c878, type: 2}
+  - {fileID: 11400000, guid: 42267a289ab8f124fae701d845829f79, type: 2}
+  firstWave: {fileID: 11400000, guid: c63cb65c9da870a4a908161c50287db8, type: 2}
+  enemyTag: Enemy
+  shieldTag: Shield
+  hittableTag: Hittable
+  firstUnlockable: {fileID: 11400000, guid: 127fe4962bd513c4a943c0ca6aa4ab9b, type: 2}
+  unlockables:
+  - {fileID: 11400000, guid: 127fe4962bd513c4a943c0ca6aa4ab9b, type: 2}
+  - {fileID: 11400000, guid: 41ac27ee26866ca4fb6cb8b067bec36a, type: 2}
+  - {fileID: 11400000, guid: 118ae1a5c73661d43b2ad31a6b2811e1, type: 2}
+  - {fileID: 11400000, guid: d12b819731c3a654abb82e58cb36df07, type: 2}
+  - {fileID: 11400000, guid: 4c3e666ccc681044f971e1596e93ca08, type: 2}
+  - {fileID: 11400000, guid: c9ca27ef97ccb5f4eb6169a975c16588, type: 2}

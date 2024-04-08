@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Members
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: fc1c0d2d5daa5214db48974fbdd00c77, type: 3}
+    - {fileID: 2800000, guid: d85bb6f7f4b25cb42b8470284ff04561, type: 3}
+    - {fileID: 2800000, guid: 2489cbb1e931456449bc78af6aca7e61, type: 3}
+    - {fileID: 2800000, guid: 6b3de73d45fbed147804fb95d56d2340, type: 3}
+    - {fileID: 2800000, guid: 80f3d09b3293b1d42ad36f316f8abe83, type: 3}
+    - {fileID: 2800000, guid: 9d400f57ffbb79c41bfcd82bb9201a44, type: 3}
+    - {fileID: 2800000, guid: cc133704de1cca7478e435d808b2a95a, type: 3}
+    - {fileID: 2800000, guid: 7596fae8f8cf2074dbfc593b06f339a1, type: 3}
+    - {fileID: 2800000, guid: f0d910c375777134da9af9c33dc9dfff, type: 3}
+    - {fileID: 2800000, guid: 7b2416dbe5b4fc5488ff393bf4bc4082, type: 3}
+    - {fileID: 2800000, guid: e56a42a66d3c85747a2f2b94f671f7c8, type: 3}
+    - {fileID: 2800000, guid: 5707d6ef9923ed14787d126685d6ef9c, type: 3}
+    - {fileID: 2800000, guid: 1e928ad6259edde45b10f215f7ca7a8c, type: 3}
+    - {fileID: 2800000, guid: 7cd58c85c1d87db45818c2ac0d2e453d, type: 3}
+    - {fileID: 2800000, guid: af711eb1d9c6a584a85b4fbde86ae488, type: 3}
+    - {fileID: 2800000, guid: 9fb64b6660fb5d844894e656943f190a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2489cbb1e931456449bc78af6aca7e61, type: 3}
+  - {fileID: 21300000, guid: af711eb1d9c6a584a85b4fbde86ae488, type: 3}
+  - {fileID: 21300000, guid: f0d910c375777134da9af9c33dc9dfff, type: 3}
+  - {fileID: 21300000, guid: cc133704de1cca7478e435d808b2a95a, type: 3}
+  - {fileID: 21300000, guid: 7cd58c85c1d87db45818c2ac0d2e453d, type: 3}
+  - {fileID: 21300000, guid: 9fb64b6660fb5d844894e656943f190a, type: 3}
+  - {fileID: 21300000, guid: e56a42a66d3c85747a2f2b94f671f7c8, type: 3}
+  - {fileID: 21300000, guid: 1e928ad6259edde45b10f215f7ca7a8c, type: 3}
+  - {fileID: 21300000, guid: 9d400f57ffbb79c41bfcd82bb9201a44, type: 3}
+  - {fileID: 21300000, guid: d85bb6f7f4b25cb42b8470284ff04561, type: 3}
+  - {fileID: 21300000, guid: 7596fae8f8cf2074dbfc593b06f339a1, type: 3}
+  - {fileID: 21300000, guid: 80f3d09b3293b1d42ad36f316f8abe83, type: 3}
+  - {fileID: 21300000, guid: 7b2416dbe5b4fc5488ff393bf4bc4082, type: 3}
+  - {fileID: 21300000, guid: fc1c0d2d5daa5214db48974fbdd00c77, type: 3}
+  - {fileID: 21300000, guid: 6b3de73d45fbed147804fb95d56d2340, type: 3}
+  - {fileID: 21300000, guid: 5707d6ef9923ed14787d126685d6ef9c, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - grenade_man
+  - two_gun_man
+  - Machine Gun
+  - laser_man
+  - shotgun_man_outline
+  - two_gun_man_outline
+  - Rifle_man
+  - shotgun_man
+  - gun_man_outline
+  - fire_man_outline
+  - laser_man_outline (Stroke)
+  - gun_man
+  - Machine_Gun_outline
+  - fire_man
+  - grenade_man_outline
+  - Rifle_man_outline
+  m_RenderDataMap: {}
+  m_Tag: Members
+  m_IsVariant: 0

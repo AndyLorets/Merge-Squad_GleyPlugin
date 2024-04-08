@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f0b0965d8836e14eb25afa94bec220e, type: 3}
+  m_Name: Grenade Launcher
+  m_EditorClassIdentifier: 
+  unlockableType: 1
+  unlockStep: 0.334
+  icon: {fileID: 21300000, guid: 2489cbb1e931456449bc78af6aca7e61, type: 3}
+  backIcon: {fileID: 21300000, guid: 6b3de73d45fbed147804fb95d56d2340, type: 3}
+  showName: Grenade Launcher
+  memberUpgradesSO: {fileID: 11400000, guid: 4c74b11b0b54d524db0c32323b84fda3, type: 2}
+  nextUnlockable: {fileID: 0}

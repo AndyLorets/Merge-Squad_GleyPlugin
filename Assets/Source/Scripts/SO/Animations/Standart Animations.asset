@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fb81a37dad7b1648902ffcd9b374e0d, type: 3}
+  m_Name: Standart Animations
+  m_EditorClassIdentifier: 
+  Idle: {fileID: -203655887218126122, guid: b7486a34921d59c4a97cc6b29e193e91, type: 3}
+  FallingIdle: {fileID: -203655887218126122, guid: 20415c1fd986f0e45968a137a349218e, type: 3}
+  Death: {fileID: -203655887218126122, guid: 2ce8e4e48c5274d42970a5a9c032d4fd, type: 3}
+  UnarmedRun: {fileID: -203655887218126122, guid: 7ef2d3b2ea011da4985ab756c3d2fe7e, type: 3}
+  RunWithRifle: {fileID: -203655887218126122, guid: bab5d3c2ad9e3624c8ccf44fd467d9a2, type: 3}
+  RunWithDouble: {fileID: -8412343837380535855, guid: 4f3a699adcd5eea4495f7311f29070f9, type: 3}
+  RunForward: {fileID: -203655887218126122, guid: e09b58c2d3eeeb64989111771640415d, type: 3}
+  RunBackwards: {fileID: -203655887218126122, guid: 1ea5d8900905b194cb7707c3cb427a89, type: 3}
+  RunLeft: {fileID: -203655887218126122, guid: 7d5c8872c38a36b448e29bf1591ae596, type: 3}
+  RunRight: {fileID: -203655887218126122, guid: 4999811d3618ea44680f739983d3fcd1, type: 3}
+  HoldPistol: {fileID: -8198262577023063425, guid: 3040efc9ae4ec20418649886161f0e12, type: 3}
+  HoldRifle: {fileID: 0}
+  HoldGrenadeLauncher: {fileID: 0}
+  HoldShotgun: {fileID: 0}
+  DanceAnimations:
+  - {fileID: -203655887218126122, guid: 883a9a1ca57872a42b3bd992d494cd09, type: 3}
+  - {fileID: -203655887218126122, guid: 6db118ea1ace32f459e7194797fce6df, type: 3}
+  - {fileID: -203655887218126122, guid: 5096fe0453d110143bd02b53eedabc1d, type: 3}
+  - {fileID: -203655887218126122, guid: f0459fd79e1e3c1439666a3ae0c62e07, type: 3}
