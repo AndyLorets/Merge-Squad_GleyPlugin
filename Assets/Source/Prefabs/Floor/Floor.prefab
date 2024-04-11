@@ -11,8 +11,8 @@ GameObject:
   - component: {fileID: 3250460047876692764}
   - component: {fileID: 3250460047876692753}
   - component: {fileID: 3250460047876692766}
-  - component: {fileID: 6127722549824620937}
   - component: {fileID: 3631403322942864897}
+  - component: {fileID: 7645679784274371070}
   m_Layer: 6
   m_Name: Floor
   m_TagString: Untagged
@@ -29,7 +29,7 @@ Transform:
   m_GameObject: {fileID: 3250460047876692765}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 3.9999998, y: 3.9999998, z: 3.9999998}
+  m_LocalScale: {x: 4, y: 4, z: 4}
   m_ConstrainProportionsScale: 1
   m_Children: []
   m_Father: {fileID: 0}
@@ -85,7 +85,20 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &6127722549824620937
+--- !u!65 &3631403322942864897
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3250460047876692765}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 9.999999, y: 0.5115115, z: 9.999999}
+  m_Center: {x: 0, y: -0.25575575, z: 0}
+--- !u!114 &7645679784274371070
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -94,7 +107,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 3250460047876692765}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a5ac11cc976e418e8d13136b07e1f52, type: 3}
+  m_Script: {fileID: 11500000, guid: 0afd9d82de281244ab4887e3692a05e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_AgentTypeID: 0
@@ -112,19 +125,5 @@ MonoBehaviour:
   m_TileSize: 256
   m_OverrideVoxelSize: 0
   m_VoxelSize: 0.16666667
-  m_MinRegionArea: 2
-  m_NavMeshData: {fileID: 23800000, guid: de8261ad5b9bd0b4e9bd0c35f5c9f0a3, type: 2}
   m_BuildHeightMesh: 0
---- !u!65 &3631403322942864897
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3250460047876692765}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 9.999999, y: 0.5115115, z: 9.999999}
-  m_Center: {x: 0, y: -0.25575575, z: 0}
+  m_NavMeshData: {fileID: 23800000, guid: 525ef4c173e95264f8f27df0baa5362a, type: 2}

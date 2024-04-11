@@ -5,6 +5,7 @@ using SRF;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using YG; 
 
 using static D2D.Utilities.CommonGameplayFacade;
 
@@ -307,7 +308,9 @@ public class SquadComponent : GameStateMachineUser
     }
     private void Movement()
     {
-        var swift = new Vector3(_joystick.Horizontal, 0, _joystick.Vertical).normalized * currentSpeed;
+        float horizontal = YandexGame.EnvironmentData.isMobile ? _joystick.Horizontal : Input.GetAxis("Horizontal");
+        float vertical = YandexGame.EnvironmentData.isMobile ? _joystick.Vertical : Input.GetAxis("Vertical");
+        var swift = new Vector3(horizontal, 0, vertical).normalized * currentSpeed;
 
         if (swift.magnitude < .1f)
         {
