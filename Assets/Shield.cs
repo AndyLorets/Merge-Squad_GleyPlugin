@@ -7,7 +7,7 @@ public class Shield : Unit, IHittable
     private Rigidbody[] rb;
 
     private Health health;
-
+    private bool _die; 
     private void Awake()
     {
         rb = ChildrenGets<Rigidbody>();
@@ -24,9 +24,13 @@ public class Shield : Unit, IHittable
 
     private void DestroyShield()
     {
+        if (_die) return;
+
+        _die = true; 
         foreach (var rigid in rb)
         {
-            rigid.isKinematic = false;
+            if (rigid != null)
+                rigid.isKinematic = false;
         }
 
         Get<Collider>().enabled = false;

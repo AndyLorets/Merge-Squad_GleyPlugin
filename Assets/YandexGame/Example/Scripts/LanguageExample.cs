@@ -7,16 +7,37 @@ public class LanguageExample : MonoBehaviour
 {
     [SerializeField] string ru;
     [SerializeField] string en;
+    [Space]
+    [SerializeField] Sprite imgRu;
+    [SerializeField] Sprite imgEn;
 
     TextMeshProUGUI textPro; 
     Text text;
+    Image _image; 
 
     private void Awake()
     {
         textPro = GetComponent<TextMeshProUGUI>();
         text = GetComponent<Text>();
-  
+        _image = GetComponent<Image>(); 
+
+
         SwitchLanguage(YandexGame.savesData.language);
+    }
+    private Sprite ImageObj
+    {
+        get
+        {
+            if (_image != null)
+                return _image.sprite;
+
+            return null;
+        }
+        set
+        {
+            if (_image != null)
+                _image.sprite = value;
+        }
     }
     private string TextObj
     {
@@ -46,9 +67,11 @@ public class LanguageExample : MonoBehaviour
         {
             case "ru":
                 TextObj = ru;
+                ImageObj = imgRu; 
                 break;
             default:
                 TextObj = en;
+                ImageObj = imgEn;
                 break;
         }
     }

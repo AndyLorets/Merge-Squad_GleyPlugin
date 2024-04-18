@@ -16,14 +16,6 @@ PrefabInstance:
       value: 86.55
       objectReference: {fileID: 0}
     - target: {fileID: 8730304988018668785, guid: d42d96494a7b64a9fb8fdc4f061d3c60, type: 3}
-      propertyPath: m_fontAsset
-      value: 
-      objectReference: {fileID: 11400000, guid: 7817eeebdc6e44cec8198bd7bb2a14e6, type: 2}
-    - target: {fileID: 8730304988018668785, guid: d42d96494a7b64a9fb8fdc4f061d3c60, type: 3}
-      propertyPath: m_sharedMaterial
-      value: 
-      objectReference: {fileID: 5270074167383394792, guid: 7817eeebdc6e44cec8198bd7bb2a14e6, type: 2}
-    - target: {fileID: 8730304988018668785, guid: d42d96494a7b64a9fb8fdc4f061d3c60, type: 3}
       propertyPath: m_HorizontalAlignment
       value: 1
       objectReference: {fileID: 0}
@@ -115,7 +107,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: LevelLabel
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8090188787424912034, guid: d42d96494a7b64a9fb8fdc4f061d3c60, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: d42d96494a7b64a9fb8fdc4f061d3c60, type: 3}
 --- !u!1 &8868332184789222106 stripped
 GameObject:

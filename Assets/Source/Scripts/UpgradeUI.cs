@@ -1,11 +1,9 @@
 using UnityEngine;
-using UnityEngine.UI;
 
 public class UpgradeUI : MonoBehaviour
 {
     [SerializeField] private CanvasGroup canvasGroup;
-    [SerializeField] private UpgradeButtonUI[] buttons;
-
+    [SerializeField] private UpgradeButtonUI[] upgradeButtons;
     private void Awake()
     {
         HideUI();
@@ -13,7 +11,7 @@ public class UpgradeUI : MonoBehaviour
 
     public UpgradeButtonUI[] GetButtons()
     {
-        return buttons;
+        return upgradeButtons;
     }
 
     public void ShowUI()

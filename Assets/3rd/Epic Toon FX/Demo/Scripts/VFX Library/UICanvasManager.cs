@@ -24,7 +24,7 @@ public class UICanvasManager : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 	
-		// Mouse Click - Check if mouse over button to prevent spawning particle effects while hovering or using UI buttons.
+		// Mouse Click - Check if mouse over button to prevent spawning particle effects while hovering or using UI upgradeButtons.
 		if (!MouseOverButton) {
 			// Left Button Click
 			if (Input.GetMouseButtonUp (0)) {

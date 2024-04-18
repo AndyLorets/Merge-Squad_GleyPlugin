@@ -11,8 +11,8 @@ namespace D2D.UI
     {
         protected override void LoadScene()
         {
-            Advertisements.Instance.ShowInterstitial();
-            Debug.Log("ShowAd");
+            AdManager.ShowFullScreen();
+            //Debug.Log("ShowAd");
             var loader = this.FindLazy<SceneLoader>();
             loader.ReloadCurrentScene();
         }

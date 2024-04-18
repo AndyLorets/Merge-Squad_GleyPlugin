@@ -92,7 +92,7 @@ public class UpgradesHandle : Unit
         
         GameWithSkills(buttons);
         
-        // GameWithMembers(buttons);
+        // GameWithMembers(upgradeButtons);
     }
     private void GameWithSkills(UpgradeButtonUI[] buttons)
     {

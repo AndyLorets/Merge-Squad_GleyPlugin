@@ -121,10 +121,10 @@ public class EnemyComponent : Unit, IHittable
 
         isDead = true;
 
-        navMesh.isStopped = true;
-        navMesh.ResetPath();
-        navMesh.velocity = Vector3.zero;
-        navMesh.enabled = false;
+        if (navMesh.isActiveAndEnabled)
+        {
+            navMesh.enabled = false;
+        }
 
         canvas.HealthBar.gameObject.SetActive(false);
 
@@ -137,7 +137,14 @@ public class EnemyComponent : Unit, IHittable
 
         DHaptic.HapticLight();
 
-        Destroy(gameObject, 3f);
+        Invoke(nameof(Desctroy), 3f); 
+    }
+    private void Desctroy()
+    {
+        //navMesh.isStopped = true;
+        //navMesh.ResetPath();
+        //navMesh.velocity = Vector3.zero;
+        Destroy(gameObject);
     }
     internal void DespawnEnemy()
     {

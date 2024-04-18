@@ -20,7 +20,7 @@ public class TestAds : MonoBehaviour
     private void OnGUI()
     {
         //get user consent
-        //if consent was not set display 2 buttons to get it and a message to inform the user about what he can do
+        //if consent was not set display 2 upgradeButtons to get it and a message to inform the user about what he can do
         if (!Advertisements.Instance.UserConsentWasSet())
         {
 #if UNITY_IOS
@@ -41,7 +41,7 @@ public class TestAds : MonoBehaviour
             }
 #endif
         }
-        //if consent was set, display buttons for ads
+        //if consent was set, display upgradeButtons for ads
         else
         {
             if (GUI.Button(new Rect(0, Screen.height - buttonHeight, buttonWidth, buttonHeight), "Show Details"))
