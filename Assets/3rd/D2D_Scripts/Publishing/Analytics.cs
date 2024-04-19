@@ -88,13 +88,13 @@ namespace D2D
 
         protected override void OnGameFinish()
         {
-            SendLevelFinishDataToYandex(isLeave: false);
+            //SendLevelFinishDataToYandex(isLeave: false);
         }
 
         private void OnApplicationQuit()
         {
-            if (IsLevelScene)
-                SendLevelFinishDataToYandex(isLeave: true);
+            //if (IsLevelScene)
+            //    SendLevelFinishDataToYandex(isLeave: true);
         }
 
         private void SendLevelFinishDataToYandex(bool isLeave)

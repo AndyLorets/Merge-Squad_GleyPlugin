@@ -183,7 +183,7 @@ namespace D2D.Core
         {
             if (!_subscribersMap.TryGetValue(t, out var subs))
                 return;
-            
+
             if (subs.IsNullOrEmpty())
                 return;
             

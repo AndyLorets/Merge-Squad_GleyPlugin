@@ -55,7 +55,11 @@ namespace D2D
                 DefaultLoad();
             }
 
-            _isLastLevelWin.Value = false;
+            try
+            {
+                _isLastLevelWin.Value = false;
+            }
+            catch { }
         }
 
         private void DefaultLoad()
@@ -95,7 +99,7 @@ namespace D2D
             }
             catch (Exception e)
             {
-                Debug.LogError(e);
+                Debug.LogWarning(e);
                 Instantiate(_gameData.levels.GetRandomElement());
                 // children[0].transform.On();
             }
@@ -103,7 +107,11 @@ namespace D2D
 
         protected override void OnGameWin()
         {
-            _isLastLevelWin.Value = true;
+            //try
+            //{
+            //    _isLastLevelWin.Value = true;
+            //}
+            //catch { }
         }
     }
 }

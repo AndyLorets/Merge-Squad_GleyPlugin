@@ -135,8 +135,6 @@ public class EnemyComponent : Unit, IHittable
         animancer.Animator.applyRootMotion = true;
         animancer.Play(animations.Death);
 
-        DHaptic.HapticLight();
-
         Invoke(nameof(Desctroy), 3f); 
     }
     private void Desctroy()

@@ -31,11 +31,11 @@ namespace D2D
 
         public static void Haptic(int d, int a)
         {
-            if (Time.time >= _timeOfNextHaptic)
-            {
-                MMNVAndroid.AndroidVibrate(d, a);
-                _timeOfNextHaptic = Time.time + MinDelayBetweenHaptics;
-            }
+            //if (Time.time >= _timeOfNextHaptic)
+            //{
+            //    MMNVAndroid.AndroidVibrate(d, a);
+            //    _timeOfNextHaptic = Time.time + MinDelayBetweenHaptics;
+            //}
         }
     }
 }

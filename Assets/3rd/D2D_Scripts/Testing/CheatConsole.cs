@@ -33,7 +33,7 @@ namespace D2D
         [Button("Win")]
         private void PushWin()
         {
-            _stateMachine.Push(new WinState());
+            _stateMachine.Push<WinState>();
         }
         
         [Button("Lose")]
