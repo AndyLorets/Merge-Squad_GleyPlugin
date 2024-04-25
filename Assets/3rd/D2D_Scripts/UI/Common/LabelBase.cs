@@ -3,6 +3,7 @@ using System;
 using System.Collections;
 using System.Linq;
 using TMPro;
+using System.Data;
 
 namespace D2D.UI
 {
@@ -17,7 +18,7 @@ namespace D2D.UI
 
         private void Start()
         {
-            Redraw();
+            Invoke(nameof(Redraw), .5f);
             
             if (UpdateRate > 0)
                 InvokeRepeating(nameof(Redraw), StartRate, UpdateRate);

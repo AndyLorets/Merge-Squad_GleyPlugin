@@ -17,7 +17,7 @@ public class MenuUI : MonoBehaviour
 
         continueButton.onClick.AddListener(() => _stateMachine.Push(new RunningState()));
 
-        UpdateStats();
+        Invoke(nameof(UpdateStats), .5f);         
     }
     private void IncreasePowerUp()
     {
